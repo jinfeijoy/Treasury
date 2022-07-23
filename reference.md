@@ -1,0 +1,7 @@
+* [Making machine learning work for your treasury](https://www.treasurers.org/hub/treasurer-magazine/making-machine-learning-work-for-your-treasury)
+* [Treasury with Machine Learning (ML)](https://treasury-management.com/tag/machine-learning-ml/)
+* [How AI in treasury management is transforming finance](https://www.usbank.com/financialiq/improve-your-operations/manage-payments/ai-thinks-treasury-management-is-ready-for-transformation.html)
+* [How is AI transforming financial and treasury management?](https://treasuryrecruitment.com/how-is-ai-transforming-financial-and-treasury-management/)
+* [How will machine learning, artificial intelligence, and automation help accounting and treasury?](https://www.cashanalytics.com/how-will-machine-learning-artificial-intelligence-and-automation-help-accounting-and-treasury/)
+* [Artificial Intelligence and Machine Learning in Treasury Management: A Systematic Literature Review](https://www.researchgate.net/publication/349861935_Artificial_Intelligence_and_Machine_Learning_in_Treasury_Management_A_Systematic_Literature_Review)
+* [A Smart Treasury Fit for the 4th Industrial Revolution](https://www.scitepress.org/Papers/2020/94705/94705.pdf)
